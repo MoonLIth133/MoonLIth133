@@ -1,94 +1,185 @@
 <p align="center">
-  <img src="./assets/moonlith-mark.svg" width="96" alt="MoonLith logo" />
+  <img src="./assets/moonlith-mark.svg" width="96" alt="MoonLith Logo">
 </p>
 
 <h1 align="center">MoonLIth133</h1>
 
 <p align="center">
-  Independent developer behind <b>MoonLith</b>.<br />
-  Focused on game client research, Windows internals, driver development, native UI, web panels, and Minecraft Fabric tooling.
+Independent Software Developer • Windows Native Development • System Programming • Reverse Engineering
+</p>
+
+<p align="center">
+Building <strong>MoonLith</strong>, a long-term personal software engineering project.
 </p>
 
 <p align="center">
   <a href="https://github.com/MoonLIth133">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-MoonLIth133-111111?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-MoonLIth133-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <img alt="C++" src="https://img.shields.io/badge/C++-native%20tools-6f65d8?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-Fabric%20Client-bd86ff?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-Web%20Panel-7f8cff?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-Systems-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-Native-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-Fabric-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
 
 ---
 
-## About Me
+# About
 
-I build MoonLith as a personal engineering brand: small tools, client experiments, native interfaces, backend panels, and low-level Windows research.
+Hi, I'm **MoonLIth**.
 
-我主要做游戏客户端研究、逆向分析、Windows 驱动、Loader、授权后台、ImGui / DirectX UI，以及 Minecraft Fabric 客户端开发。  
-Compared with only writing features, I care more about the whole pipeline: analysis, architecture, UI, packaging, deployment, update flow, and long-term maintainability.
+I'm an independent software developer with a strong interest in Windows internals, native software engineering, reverse engineering, and desktop application development.
 
-## Current Focus
+I enjoy understanding how software works beneath the surface, from runtime behavior and operating system internals to application architecture and user experience.
 
-- Game client research and runtime analysis
-- Windows internals, kernel-mode driver experiments, and user-mode communication design
-- C++ desktop products with DirectX 11 / ImGui interfaces
-- PHP + MySQL authorization panels, product delivery, changelogs, avatars, sessions, and remote update flows
-- Minecraft Fabric 1.21.x client development with custom UI, localization, configs, HUD, capes, and Loader integration
-- Tooling around dumps, SDK data, offsets, logs, smoke tests, and release packaging
+Most of my work is developed in private repositories as long-term engineering projects. GitHub is where I share experiments, learning projects, and public resources when appropriate.
 
-## Featured Work
+---
 
-| Project | Stack | What it is |
-| --- | --- | --- |
-| **MoonLith Loader** | C++, Win32, DirectX 11, ImGui | A native desktop loader UI with account login, product library, avatars, changelogs, update checks, and product launch states. |
-| **Moonlith Panel v2** | PHP 8, MySQL, JS, CSS | Web panel for accounts, invite registration, entitlements, resources, loader updates, product changelogs, avatars, sessions, and admin operations. |
-| **MoonLith MC** | Java 21, Fabric Loader, Fabric API | Minecraft Fabric client project with custom menu, HUD, localization, config storage, profile data, capes, and visual modules. |
-| **Fuse Driver Lab** | C++, Windows Driver Kit | Kernel and user-mode research project for studying Windows memory, driver communication, PE loading concepts, and debugging workflows. |
-| **UE Runtime Dumper** | C++, Win32 | Read-only Unreal Engine runtime data dumper for class metadata, object lists, names, actors, and generated offset references. |
-| **MoonLith UI Experiments** | HTML, CSS, JS, ImGui | High-fidelity UI prototypes and reusable menu styling for MoonLith products. |
+# Current Focus
 
-## Tech Stack
+- Native Windows application development
+- Windows internals and system programming
+- Driver development with WDK
+- Runtime analysis and debugging
+- Desktop UI engineering (DirectX 11 + ImGui)
+- Backend infrastructure and product delivery
+- Minecraft Fabric development
 
-**Languages**  
-`C++` `Java` `PHP` `JavaScript` `CSS` `SQL` `PowerShell`
+---
 
-**Native / Windows**  
-`Win32` `DirectX 11` `ImGui` `MinHook` `Visual Studio` `Windows Driver Kit` `PE analysis`
+# Technical Skills
 
-**Game / Client Research**  
-`Unreal Engine runtime analysis` `Fabric Loader` `Fabric API` `Mixin` `Yarn mappings` `runtime metadata`
+## Languages
 
-**Backend / Product Systems**  
-`PHP 8` `MySQL` `session management` `entitlements` `release channels` `resource delivery` `audit logs`
+- C++
+- Java
+- PHP
+- JavaScript
+- SQL
+- PowerShell
 
-**Workflow**  
-`smoke testing` `debug builds` `release packaging` `configuration migration` `localization` `UI polish`
+## Windows Development
 
-## What I Like Building
+- Win32 API
+- DirectX 11
+- ImGui
+- Windows SDK
+- PE format
+- DLL loading
+- Native desktop applications
 
-- Clean desktop tools that feel closer to commercial software than throwaway utilities
-- Debugging and analysis tools that turn unknown runtime data into readable structures
-- Menus and HUDs with strong interaction polish, readable typography, and consistent branding
-- Backend systems that make product delivery, updates, and authorization manageable
-- Low-level experiments that deepen my understanding of Windows rather than just patching symptoms
+## System Programming
 
-## Principles
+- Windows internals
+- Windows Driver Kit (WDK)
+- Kernel architecture
+- User / Kernel communication
+- Memory management
+- Runtime analysis
+- Debugging workflows
 
-- Keep public projects readable and documented
-- Keep sensitive keys, credentials, and operational details out of repositories
-- Separate research notes from production code
-- Prefer reversible experiments and smoke tests before release
-- Build for learning, maintainability, and personal technical growth
+## Reverse Engineering
 
-## GitHub Activity
+- Binary analysis
+- Runtime inspection
+- Unreal Engine research
+- Metadata exploration
+- SDK generation
+- Debugging and instrumentation
+
+## Backend Development
+
+- PHP 8
+- MySQL
+- REST-style APIs
+- Authentication
+- Session management
+- Resource delivery
+- Product management
+
+## Minecraft Development
+
+- Java 21
+- Fabric Loader
+- Fabric API
+- Mixins
+- Custom GUI
+- HUD systems
+- Configuration management
+- Localization
+
+---
+
+# Experience
+
+Most of my engineering work is centered around private projects, including:
+
+- Native Windows desktop applications
+- Desktop launchers
+- Backend management systems
+- Runtime analysis tools
+- Internal debugging utilities
+- Product update infrastructure
+- Research utilities
+- Minecraft Fabric clients
+
+---
+
+# Technologies
+
+| Languages | Native | Backend | Development |
+|-----------|----------|----------|--------------|
+| C++ | Win32 API | PHP | Visual Studio |
+| Java | DirectX 11 | MySQL | Git |
+| JavaScript | ImGui | SQL | CMake |
+| PowerShell | Windows SDK | REST APIs | x64dbg |
+| CSS | WDK | Sessions | IDA |
+
+---
+
+# Currently Learning
+
+- Windows kernel internals
+- Driver architecture
+- Software architecture
+- Rendering pipelines
+- Performance optimization
+- Modern C++
+
+---
+
+# Development Principles
+
+- Build maintainable software.
+- Understand systems instead of treating them as black boxes.
+- Prefer clean architecture over unnecessary complexity.
+- Keep experiments isolated from production projects.
+- Continue learning through building.
+
+---
+
+# GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MoonLIth133&show_icons=true&theme=transparent&hide_border=true&title_color=AFA7FF&text_color=DCD8FF&icon_color=AFA7FF" alt="MoonLIth133 GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonLIth133&layout=compact&theme=transparent&hide_border=true&title_color=AFA7FF&text_color=DCD8FF" alt="MoonLIth133 top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MoonLIth133&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonLIth133&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
+# Interests
+
+- Windows Internals
+- Native Software
+- System Programming
+- Reverse Engineering
+- Desktop UI
+- Software Architecture
+- Performance Optimization
+- Minecraft Modding
+
+---
+
 <p align="center">
-  <b>MoonLith</b> is my long-term personal lab for native software, game client research, and product-grade tooling.
+MoonLith is my personal engineering space for exploring native software, Windows systems, and long-term software development.
 </p>
