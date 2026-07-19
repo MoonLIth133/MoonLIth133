@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">MoonLith</title>
+  <desc id="desc">A crescent moon embracing a faceted violet monolith with an orbital star.</desc>
+  <path d="M8 40C3.5 23.5 14 8.5 31 5M47 11C58.5 20.5 61 37 52 51" fill="none" stroke="#DCD8FF" stroke-width="3" stroke-linecap="round"/>
+  <path d="M40 49C24.5 51 12 41 12 27.5C12 17.5 19.5 8.5 30 5.5C24 11 21 17 21 24.5C21 35.5 30 44 41 44C46 44 50.5 42 54 38.5C51.5 44 46.5 47.5 40 49Z" fill="#F4F2FF"/>
+  <path d="M32 9L45.5 18L42 47L30 57L25 42Z" fill="#AFA7FF"/>
+  <path d="M32 9L34.5 38L25 42Z" fill="#7E74DE"/>
+  <path d="M32 9L45.5 18L34.5 38Z" fill="#D6D1FF"/>
+  <path d="M34.5 38L42 47L30 57L25 42Z" fill="#958CEB"/>
+  <path d="M51 5L53 10L58 12L53 14L51 19L49 14L44 12L49 10Z" fill="#C9C3FF"/>
+</svg>
